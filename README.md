@@ -2,7 +2,7 @@
 ## Data analysis and machine learning projects
 
 <p align="center" width="70%">
-    <img width="25%" src="https://www.istockphoto.com/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-gm1488294044-513513679">
+    <img width="25%" src="https://www.istockphoto.com/photo/stock-market-report-gm1040865674-278638861?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdata-analysis&utm_term=data%20analysis%3A%3A%3A">
 </p>
 
 This is a repository of code and data for my data analysis and machine learning projects, mostly written in jupyter notebook. This also includes some of my projects from the kaggle competition. 
